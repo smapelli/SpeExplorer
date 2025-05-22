@@ -1,4 +1,4 @@
-# SPE Explorer
+# SharePoint Embedded (SPE) Explorer
 
 ![image](https://github.com/user-attachments/assets/46ef395d-3ef3-4335-a7a2-c87821c6ad15)
 
